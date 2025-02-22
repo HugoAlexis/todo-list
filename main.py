@@ -1,6 +1,8 @@
 from functions import *
 
-print('Hello world!')
-print_greeting('Hugo Alexis')
-say_goodbye('Hugo Alexis')
+
+if __name__ == '__main__':
+    print('Hello world!')
+    print_greeting('Hugo Alexis')
+    say_goodbye('Hugo Alexis')
 
